@@ -1,0 +1,3 @@
+Gloabl Razr ICS kernel source
+
+from http://sourceforge.net/projects/xt910.motorola/files/XT910S/67.42.17.XT910S.SKT.en.KR/kernel_omap4.tar.gz
